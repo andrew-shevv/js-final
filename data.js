@@ -1,5 +1,14 @@
 const dataProducts = `[
     {
+        "title": "ELLERY X M'O CAPSULE",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": "52.00",
+        "image": {
+            "src": "img/product1.jpg",
+            "alt": "product1"
+        }
+    },
+    {
         "title": "MAGICAL SPACE-FLIGHT",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam odio sequi nostrum placeat aspernatur maiores.",
         "price": "105.00",
